@@ -8,7 +8,7 @@ A simple Golang web app (using Martini) which can easily be deployed to Docker C
 
 Build and run using Docker Compose:
 
-	$ git clone https://github.com/docker/dockercloud-quickstart-go
+	$ git clone https://github.com/Tueffy/dockercloud-quickstart-go
 	$ cd dockercloud-quickstart-go
 	$ docker-compose up
 
