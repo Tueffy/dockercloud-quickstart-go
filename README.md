@@ -19,4 +19,7 @@ Build and run using Docker Compose:
 	$ docker login
 	$ docker-cloud stack up
 
-Continue with this tutorial [here](https://docs.docker.com/docker-cloud/tutorials/golang/)
+Or just press the button above!
+
+Have fun
+Christian
